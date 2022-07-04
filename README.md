@@ -27,4 +27,4 @@ Click on the `Open Blog`, UI looks like:
 <img width="947" alt="ss3" src="https://user-images.githubusercontent.com/83687589/177203338-1c3a9500-221f-4aa8-a59c-785f1b479f4e.png">
 
 ## Live Demo
-<img src = "https://github.com/sunnystark33/Blog-website/blob/master/Screenshots/demo.gif" width = 800px height = 800px>
+<img src = "https://github.com/sunnystark33/Blog-website/blob/master/Screenshots/demo.gif" width = 300px height = 300px>
