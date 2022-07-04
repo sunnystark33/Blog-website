@@ -7,7 +7,6 @@ Application uses LocalStorage, the localStorage object stores data with no expir
 
 ## Stacks Used
 * HTML & CSS
-* Bootstrap - A CSS Framework
 * JavaScript -> LocalStorage
 
 ## Use of Project
@@ -16,18 +15,16 @@ To understand the concept of the localstorage, how localstorage persist the data
 
 ## ScreenShot
 
-<img src="https://github.com/khushi-purwar/Web-dev-mini-projects/blob/main/Blog%20Application/Screenshots/ss1.png?raw=true" />
+<img width="960" alt="ss1" src="https://user-images.githubusercontent.com/83687589/177203308-7e6a0ca5-4fc6-4f38-b5a6-628e3416ee2b.png">
+
 
 Click on the `Add New`, UI looks like:
 
+<img width="946" alt="ss2" src="https://user-images.githubusercontent.com/83687589/177203324-f31f5e1a-a14b-4ce0-9f2c-26a8ce194faf.png">
 
-<img src="https://github.com/khushi-purwar/Web-dev-mini-projects/blob/main/Blog%20Application/Screenshots/ss2.png?raw=true" />
 
 Click on the `Open Blog`, UI looks like:
-
-
-<img src="https://github.com/khushi-purwar/Web-dev-mini-projects/blob/main/Blog%20Application/Screenshots/ss3.png?raw=true" />
+<img width="947" alt="ss3" src="https://user-images.githubusercontent.com/83687589/177203338-1c3a9500-221f-4aa8-a59c-785f1b479f4e.png">
 
 ## Live Demo
 
-<img src="https://github.com/khushi-purwar/Web-dev-mini-projects/blob/main/Blog%20Application/Screenshots/demo.gif?raw=true" />
